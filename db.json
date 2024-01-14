@@ -1,26 +1,132 @@
 [
     {
-        "employee_id": 1,
-        "first_name": "Vinnie",
-        "last_name": "Bellanger",
-        "birthdate": "3/31/1953",
-        "start_date": "3/26/2015",
-        "address": "1 Southridge Street",
-        "phone_number": "856-895-0211",
-        "department": "Sales",
-        "salary": 146495.19,
-        "email": "vbellanger0@xing.com"
+      "id": "0",
+      "firstname": "Lee",
+      "lastname": "Witting",
+      "email": "Deshawn_Franey-Johnston@yahoo.com",
+      "phone": "232.697.4928 x2386",
+      "age": 61,
+      "tenure": 5,
+      "address": {
+        "address1": "5455 Marion Summit",
+        "address2": "South Haleighbury "
+      }
     },
     {
-        "employee_id": 2,
-        "first_name": "Ilaire",
-        "last_name": "Sulter",
-        "birthdate": "11/2/1995",
-        "start_date": "9/12/2022",
-        "address": "12 Shopko Street",
-        "phone_number": "808-338-2098",
-        "department": "Sales",
-        "salary": 88341.33,
-        "email": "isulter1@amazonaws.com"
+      "id": "1",
+      "firstname": "Clifford",
+      "lastname": "Dooley",
+      "email": "Alba39@gmail.com",
+      "phone": "(559) 279-8102 x78611",
+      "age": 48,
+      "tenure": 5,
+      "address": {
+        "address1": "313 Trever Underpass",
+        "address2": "New Hassie "
+      }
+    },
+    {
+      "id": "2",
+      "firstname": "Dominique",
+      "lastname": "Franecki",
+      "email": "Lucile_Murazik86@hotmail.com",
+      "phone": "288-365-2329 x481",
+      "age": 25,
+      "tenure": 7,
+      "address": {
+        "address1": "43753 Trevion Extensions",
+        "address2": "Lake Novaside "
+      }
+    },
+    {
+      "id": "3",
+      "firstname": "Cielo",
+      "lastname": "Yost",
+      "email": "Kody85@yahoo.com",
+      "phone": "1-411-495-4473 x05290",
+      "age": 44,
+      "tenure": 3,
+      "address": {
+        "address1": "551 Izabella Bridge",
+        "address2": "West Covina "
+      }
+    },
+    {
+      "id": "4",
+      "firstname": "Alfred",
+      "lastname": "Schultz",
+      "email": "Isabella68@gmail.com",
+      "phone": "1-834-938-8504",
+      "age": 18,
+      "tenure": 1,
+      "address": {
+        "address1": "5533 Antonio Lock",
+        "address2": "Downers Grove "
+      }
+    },
+    {
+      "id": "5",
+      "firstname": "Vida",
+      "lastname": "Waters",
+      "email": "Kevin_Goodwin@gmail.com",
+      "phone": "699.241.0677",
+      "age": 38,
+      "tenure": 10,
+      "address": {
+        "address1": "873 Connelly Landing",
+        "address2": "Sydneeworth "
+      }
+    },
+    {
+      "id": "6",
+      "firstname": "Geovanny",
+      "lastname": "Okuneva",
+      "email": "Devonte_Howe34@yahoo.com",
+      "phone": "(696) 578-2335 x6811",
+      "age": 59,
+      "tenure": 8,
+      "address": {
+        "address1": "93905 Jalon Drive",
+        "address2": "Kieranhaven "
+      }
+    },
+    {
+      "id": "7",
+      "firstname": "Bennett",
+      "lastname": "Ruecker",
+      "email": "Domenica_Aufderhar@yahoo.com",
+      "phone": "548-295-9009 x2434",
+      "age": 44,
+      "tenure": 2,
+      "address": {
+        "address1": "45319 Macejkovic Throughway",
+        "address2": "Robelberg "
+      }
+    },
+    {
+      "id": "8",
+      "firstname": "Ted",
+      "lastname": "Kutch-Beer",
+      "email": "Georgianna_Kessler98@yahoo.com",
+      "phone": "822-548-5170 x015",
+      "age": 18,
+      "tenure": 4,
+      "address": {
+        "address1": "2248 Considine Islands",
+        "address2": "Noemymouth "
+      }
+    },
+    {
+      "id": "9",
+      "firstname": "Armani",
+      "lastname": "Haley",
+      "email": "Rodolfo33@gmail.com",
+      "phone": "(279) 793-3957 x521",
+      "age": 37,
+      "tenure": 2,
+      "address": {
+        "address1": "81670 Murphy Lake",
+        "address2": "Isaacchester "
+      }
     }
 ]
